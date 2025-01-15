@@ -12,7 +12,6 @@
 ## طريقة التحميل
 
 لتحميل النسخة الكاملة من أوفيس 2016 باللغة العربية والمفعل مدى الحياة، يمكنك زيارة الرابط التالي:
-
 [تحميل اوفيس 2016 عربي مفعل مدى الحياة](https://takeitpc.com/office-2016-download-free-full-version-64-bit/)
 
 ## كيفية التثبيت
@@ -29,6 +28,6 @@
 
 ## مراجع
 
-- [موقع Take It PC لتحميل اوفيس 2016](https://takeitpc.com/office-2016-download-free-full-version-64-bit/)
+## [موقع Take It PC لتحميل اوفيس 2016](https://takeitpc.com/office-2016-download-free-full-version-64-bit/)
 
 استمتع باستخدام أوفيس 2016 عربي مفعل مدى الحياة!
